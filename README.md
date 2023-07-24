@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emre Pirvan  
-- 👀 I’m interested in Front_end and Back_end technologies.
-- 🌱 I’m currently learning JavaScript And C#
+- 👀 I’m interested in Frontend and Backend technologies.
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me; LinkedIn and gmail: emreprvn@gmail.com
 
 
